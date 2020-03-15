@@ -1,2 +1,3 @@
 # rainbow
-Rainbow website
+
+Rainbow website in the key of C major
